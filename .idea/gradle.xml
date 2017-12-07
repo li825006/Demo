@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app1" />
+            <option value="$PROJECT_DIR$/broadcastreciver" />
+            <option value="$PROJECT_DIR$/donghuajianting" />
+            <option value="$PROJECT_DIR$/k" />
+            <option value="$PROJECT_DIR$/kaoshi1" />
+            <option value="$PROJECT_DIR$/kaoshi2" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/provider" />
+            <option value="$PROJECT_DIR$/provrder" />
+            <option value="$PROJECT_DIR$/pullTolibrary" />
+            <option value="$PROJECT_DIR$/shuxingdongman" />
+            <option value="$PROJECT_DIR$/sidazujian" />
+            <option value="$PROJECT_DIR$/tupian3jihuancun" />
+            <option value="$PROJECT_DIR$/zuhedonghua" />
+            <option value="$PROJECT_DIR$/zuhedongman" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

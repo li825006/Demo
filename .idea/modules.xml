@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreciver/broadcastreciver.iml" filepath="$PROJECT_DIR$/broadcastreciver/broadcastreciver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donghuajianting/donghuajianting.iml" filepath="$PROJECT_DIR$/donghuajianting/donghuajianting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/k/k.iml" filepath="$PROJECT_DIR$/k/k.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshi1/kaoshi1.iml" filepath="$PROJECT_DIR$/kaoshi1/kaoshi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshi2/kaoshi2.iml" filepath="$PROJECT_DIR$/kaoshi2/kaoshi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provrder/provrder.iml" filepath="$PROJECT_DIR$/provrder/provrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullTolibrary/pullTolibrary.iml" filepath="$PROJECT_DIR$/pullTolibrary/pullTolibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuxingdongman/shuxingdongman.iml" filepath="$PROJECT_DIR$/shuxingdongman/shuxingdongman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidazujian/sidazujian.iml" filepath="$PROJECT_DIR$/sidazujian/sidazujian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tupian3jihuancun/tupian3jihuancun.iml" filepath="$PROJECT_DIR$/tupian3jihuancun/tupian3jihuancun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuhedonghua/zuhedonghua.iml" filepath="$PROJECT_DIR$/zuhedonghua/zuhedonghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuhedongman/zuhedongman.iml" filepath="$PROJECT_DIR$/zuhedongman/zuhedongman.iml" />
+    </modules>
+  </component>
+</project>
